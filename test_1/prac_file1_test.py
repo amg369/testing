@@ -1,5 +1,5 @@
 import time
 while True:
-	print("file 12")
-	time.sleep(10)
+	print("file 13")
+	time.sleep(2)
 
