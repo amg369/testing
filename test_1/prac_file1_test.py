@@ -1,5 +1,6 @@
 import time
 num =1
 while True:
-	print("file 34")
+	num+=1
+	print(num)
 	time.sleep(5)
