@@ -1,4 +1,6 @@
 import time
-print("file 2")
+while True:
+  print("file 2")
+  time.sleep(5)
 
 
