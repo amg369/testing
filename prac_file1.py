@@ -1,6 +1,6 @@
 import time
 while True:
-  print("file 2")
+  print("file DOG")
   time.sleep(5)
 
 
